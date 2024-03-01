@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CJunger
-- 👀 I’m interested in learning more about data and visualization.
-- 🌱 I’m currently learning Python and in a Data Analytics Bootcamp and hoping to pivot from a non-profit professional into a Data Analyst role.
-- 💞️ I’m looking to collaborate on new projects that use the skills I am learning.
+- 👀 I’m interested in data analytics and learnign about new programming languages.
+- 🌱 I recently finished learning Python through a Data Analytics Bootcamp and I am hoping to pivot from a non-profit professional into a Data Analyst role.
+- 💞️ I’m learning full stack development currently using JS and React.
 - 📫 How to reach me chelseagrissom@gmail.com
 
 <!---
